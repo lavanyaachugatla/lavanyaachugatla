@@ -3,7 +3,7 @@
 😄 Pronouns: She/Her
 ## 👩‍💻 Software Developer | Bootcamp Graduate | Open to Opportunities
 
-Welcome to my GitHub! I'm Lavanya, an enthusiastic software developer currently completing my studies at Tech Elevator, an intensive Java full-stack bootcamp. I'm passionate about building clean, efficient code and learning new technologies.
+Welcome to my GitHub! I'm Lavanya, an enthusiastic software developer recently completed my studies at Tech Elevator, an intensive Java full-stack bootcamp. I'm passionate about building clean, efficient code and learning new technologies.
 
 ### 🌱 Currently Learning
 - Java, SQL, JavaScript, HTML, CSS
